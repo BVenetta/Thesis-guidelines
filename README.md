@@ -6,7 +6,7 @@ BSc project template on information extraction from structured lists
 
 - [The Hole](https://en.wikipedia.org/wiki/The_Hole_(2001_film)) (2001), Frances "Frankie" Almond Smith
 - [Bend It Like Beckham](https://en.wikipedia.org/wiki/Bend_It_Like_Beckham) (2002), Juliette "Jules" Paxton – her break-out role
-- [Pirates of the Caribbean: The Curse of the Black](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl) Pearl (2003), Elizabeth Swann
+- [Pirates of the Caribbean: The Curse of the Black Pearl](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl) (2003), Elizabeth Swann
 
 Each item contains different parts: the title of a film, year, the character she played and sometimes a comment. These parts are delineated by punctuation, but also often specific words or phrases. It would be nice to be able to extract information from these kinds of structures to add to Knowledge Bases, so we could automatically integrate it with other data.
 
